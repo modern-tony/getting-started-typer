@@ -1,0 +1,4 @@
+typer
+oracledb
+pendulum
+typer-cli
