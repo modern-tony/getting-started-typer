@@ -2,3 +2,4 @@ typer
 oracledb
 pendulum
 typer-cli
+badge
